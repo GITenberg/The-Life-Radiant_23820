@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26052
     wikipedia: http://en.wikipedia.org/wiki/Lilian_Whiting
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23820#The-Life-Radiant
 gutenberg_issued: '2007-12-11'
 gutenberg_type: Text
 identifiers:
